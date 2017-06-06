@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package prova2;
 
 import java.util.ArrayList;
@@ -10,7 +5,7 @@ import java.util.List;
  
 class Coordenada {
 
-    int x, y;
+    int x, y; 
 
     public Coordenada(int x, int y) {
         this.x = x;
