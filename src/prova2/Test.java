@@ -6,7 +6,7 @@ import java.util.ArrayList;
 import java.util.List;
  
 class Coordenada {
-
+ 
     int x, y; 
    
     public Coordenada(int x, int y) {
